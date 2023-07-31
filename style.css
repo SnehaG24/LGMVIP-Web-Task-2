@@ -1,0 +1,43 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+}
+
+#show th, #show td{
+	padding: 15px;
+}
+
+#table1 th{
+	padding: 15px;
+}
+
+#btna td input{
+	width: 100%;
+}
+
+#show{
+	position: absolute;
+	left:520px;
+	top: 120px;
+}
+#table1{
+	position: relative;
+	left: 100px;
+	top: 90px;
+}
+.box{
+	background-color: rgb(224, 237, 243);
+	height: 500px;
+	width: 80vw;
+	position: relative;
+	left: 150px;
+	top: 20px;
+	border-radius: 12px;
+}
+center{
+	position: relative;
+	top: 80px;
+}
+input{
+	padding:10px;
+}
